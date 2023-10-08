@@ -7,7 +7,6 @@ This project, named 'A Sorted Tale,' aims to compare the performance of differen
 ## Objectives
 
 - **Algorithm Implementation**: Implement bubble sort and quick sort algorithms.
-- **Performance Analysis**: Use Python's `timeit` module to measure and compare the performance of these algorithms.
 - **Data Sorting**: Sort a dataset of books by title and author.
 
 ## How It Works
@@ -22,7 +21,6 @@ This project, named 'A Sorted Tale,' aims to compare the performance of differen
 3. **Main Script**: The `scripts.py` file serves as the driver code to execute sorting and performance measurement.
     - `by_title_ascending()`: Comparison function to sort by title.
     - `by_author_ascending()`: Comparison function to sort by author.
-    - Uses `timeit` to measure and print the average time taken for each sorting algorithm.
 
 ## Running the Code
 
