@@ -4,8 +4,8 @@
 This project focuses on implementing a simple hash map in Python. It uses a custom linked list data structure to manage collisions within the hash map.
 
 ## Objectives
-- Hash Map Implementation
-- Linked List Utility
+- Implement a hash map
+- Use linked lists to handle collisions
 
 ## Technologies Used
 - Python
