@@ -48,7 +48,7 @@ def get_attractions_for_traveler(traveler):
             interests_string += "the " + traveler_attractions[i] + ";"
     return interests_string
 
-#Test the code
+#Testing phase
 
 # List of destination cities available with the travel agency, each as a string in the format "City, Country".
 destinations = ["Paris, France", "Shanghai, China", "Los Angeles, USA", "Sao Paulo, Brazil", "Cairo, Egypt"]
