@@ -10,7 +10,7 @@ This repository serves as a curated collection of mini-coding projects developed
 - [Blossom](./Blossom/README.md) - Implements a hash map using linked lists to manage collisions.
 - [A Sorted Tale](./SortedTale/README.md) - Compares the performance of bubble sort and quick sort algorithms using Python.
 - [Towers of Hanoi](./TowersOfHanoi/README.md) - Solves the Towers of Hanoi problem using object-oriented programming and the concept of stacks.
-
+- [The Boredless Tourist](./TheBoredlessTourist/README.md) - Demonstrates list management, function definitions, and data structuring in Python.
 
 
 
