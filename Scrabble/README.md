@@ -4,7 +4,7 @@
 ## Description
 This project provides a Python implementation for calculating the point value of a word in the game of Scrabble. It leverages dictionaries and lists to map each letter to its corresponding point value, then sums these up for each word.
 
-## Objectives
+## Features
 - Maps each letter to its corresponding point value.
 - Calculates the total point value of a given word.
 - Includes test cases to verify the functionality.
