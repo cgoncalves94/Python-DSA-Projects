@@ -3,7 +3,7 @@
 ## Description
 This Python project simulates a sales record system, focusing on parsing and aggregating sales data as well as manipulating strings.
 
-## Objectives
+## Features
 - Parse and aggregate sales data
 - Manipulate strings to derive insights
 
