@@ -3,7 +3,7 @@
 ## Description
 This project aims to compare the performance of different sorting algorithms, specifically bubble sort and quick sort, using Python.
 
-## Objectives
+## Features
 - Algorithm Implementation
 - Data Sorting
 
