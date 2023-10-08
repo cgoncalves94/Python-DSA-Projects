@@ -1,12 +1,11 @@
 # Thread Shed Exercise
 
 ## Description
-This Python script is part of a coding exercise aimed at practicing various programming concepts. It simulates a sales record system.
+This Python project simulates a sales record system, focusing on parsing and aggregating sales data as well as manipulating strings.
 
 ## Objectives
-- Data Parsing
-- String Manipulation
-- Data Aggregation
+- Parse and aggregate sales data
+- Manipulate strings to derive insights
 
 ## Technologies Used
 - Python
