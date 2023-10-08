@@ -1,6 +1,12 @@
 # Import daily sales data from the text file
-with open('daily_sales.txt', 'r') as file:
+import os
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+data_file_path = os.path.join(current_dir, 'daily_sales.txt')
+
+with open(data_file_path, 'r') as file:
     daily_sales = file.read().strip()
+
 
 
 #------------------------------------------------
