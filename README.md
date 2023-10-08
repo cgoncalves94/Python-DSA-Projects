@@ -14,7 +14,7 @@ Each project is designed to practice specific programming skills and concepts, m
 - [The Boredless Tourist](./TheBoredlessTourist/README.md) - Demonstrates list management, function definitions, and data structuring in Python.
 - [Scrabble](./Scrabble/README.md) - Provides a Python implementation for calculating the point value of a word in the game of Scrabble.
 - [Longest Common Subsequence](./LongestCommonSubsequence/README.md) - Provides a Python implementation for finding the Longest Common Subsequence (LCS) of two strings.
-- [SkyRoute](./SkyRoute/README.md) - A Python-based application for finding the shortest metro route between various landmarks in Vancouver.
+- [SkyRoute](./Skyroute/README.md) - A Python-based application for finding the shortest metro route between various landmarks in Vancouver.
 
 ## Future plans
 This repository is continuously updated with new projects as I explore different aspects of programming. Stay tuned for more mini-coding challenges and solutions!
