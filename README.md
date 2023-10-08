@@ -2,7 +2,8 @@
 
 ## Description
 
-This repository serves as a curated collection of mini-coding projects developed in Python. Each project is designed to practice specific programming skills and concepts, making this an ideal resource for learners and enthusiasts alike.
+This repository serves as a curated collection of mini-coding projects developed in Python.
+Each project is designed to practice specific programming skills and concepts, making this an ideal resource for my learning and development.
 
 ## Projects
 
