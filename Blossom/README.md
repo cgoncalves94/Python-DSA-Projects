@@ -18,13 +18,13 @@ This project, named 'Blossom', focuses on implementing a simple hash map in Pyth
     - `assign()`: Adds a key-value pair to the hash map.
     - `retrieve()`: Retrieves a value by key from the hash map.
     - `delete()`: Removes a key-value pair from the hash map.
-    - `__init__()`: Initializes the hash map with an array of linked lists.
+    - `print_indexes()`: Prints the key-value pairs stored at each index of the hash map's array. Useful for debugging and understanding the hash map's internal state.
 
 2. **Linked List**: A custom linked list implementation is used for each bucket in the hash map to handle collisions.
 
 3. **Blossom Library**: Contains predefined flower definitions as key-value pairs.
 
-4. **Driver Code**: Creates a HashMap instance and performs various operations to demonstrate its functionality.
+4. **Testing**: Creates a HashMap instance and performs various operations to demonstrate its functionality.
 
 ## Running the Code
 
