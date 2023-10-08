@@ -3,7 +3,7 @@
 ## Description
 This mini-project aims to solve the Towers of Hanoi problem using Python. It leverages the concept of stacks to represent the towers and nodes to represent the disks.
 
-## Objectives
+## Features
 - Implement the Towers of Hanoi algorithm
 - Utilize object-oriented programming techniques
 - Algorithmic Problem-Solving
