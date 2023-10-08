@@ -15,9 +15,6 @@ This mini-project aims to solve the Towers of Hanoi problem using Python. It lev
 - OOP
 - Stacks
 
-## How to Run
-Run `python towers_of_hanoi.py` in the terminal.
-
 ## Output
 Displays the steps to solve the Towers of Hanoi problem.
 

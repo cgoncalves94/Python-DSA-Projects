@@ -14,8 +14,5 @@ This project is designed to help travelers find attractions that match their int
 - Lists
 - Functions
 
-## How to Run
-Run `python boredless_tourist.py` in the terminal.
-
 ## Output
 Provides personalized recommendations for travelers.

@@ -14,8 +14,5 @@ This project aims to compare the performance of different sorting algorithms, sp
 - Bubble Sort
 - Quick Sort
 
-## How to Run
-Run `python sorted_tale.py` in the terminal.
-
 ## Output
 Displays sorted dataset and performance metrics.

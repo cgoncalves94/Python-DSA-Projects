@@ -15,8 +15,5 @@ This Python project simulates a sales record system, focusing on parsing and agg
 - String Methods
 - Aggregation
 
-## How to Run
-Run `python thread_shed.py` in the terminal.
-
 ## Output
 Displays aggregated sales data.
