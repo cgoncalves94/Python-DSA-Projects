@@ -17,5 +17,3 @@ Each project is designed to practice specific programming skills and concepts, m
 - [SkyRoute](./Skyroute/README.md) - A Python-based application for finding the shortest metro route between various landmarks using Graph traversals.
 - [Travelling Salesperson Solver](./TravellingSalesperson/README.md) - A Python application designed to solve the classic optimization problem using a Greedy Algorithm.
 
-## Future plans
-This repository is continuously updated with new projects as I explore different aspects of programming. Stay tuned for more mini-coding challenges and solutions!
